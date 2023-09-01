@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width='250rem' src='https://github.com/codeReadyy/utility/assets/17539531/91a0ccba-88d7-4b53-8ba1-2bae02f05526' alt='logo'/>
+  <img width='250rem' src='public/logo.svg' alt='logo'/>
 </p>
 
 # PointSix NFT Utility Builder
